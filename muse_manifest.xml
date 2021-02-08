@@ -1,0 +1,29 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ataa4.com" resolutions="1x" timestamp="1612713021946">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="180992602" ref="index"/>
+    <file name="aa.css" crc="262780114" ref="aa"/>
+    <file name="untitled-2.css" crc="4100875068" ref="untitled-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:aa"/>
+    <file name="museutils.js" crc="340535759" ref="index:untitled-2:aa"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2:aa"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:untitled-2:aa"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:untitled-2:aa"/>
+    <file name="require.js" crc="7928878" ref="index:untitled-2:aa"/>
+    <file name="webpro.js" crc="4059564322" ref="untitled-2"/>
+    <file name="form_check.php" crc="4020933626" ref="untitled-2"/>
+    <file name="form_throttle.php" crc="4259590256" ref="untitled-2"/>
+    <file name="form_process.php" crc="37464564" ref="untitled-2"/>
+    <file name="form-u138.php" crc="318773285" ref="untitled-2"/>
+  </folder>
+  <folder name="images">
+    <file name="başlıksız-13-crop-u94.jpg" crc="3789905041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4146221350" seo="true" mt="1612712985098" redirect="true"/>
+  <file name="untitled-2.html" crc="357906095" seo="true" mt="1612625117728" redirect="true"/>
+  <file name="aa.html" crc="3945381438" seo="true" mt="1612624246180" redirect="false"/>
+</manifest>
